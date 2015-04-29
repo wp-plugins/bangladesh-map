@@ -5,7 +5,7 @@ Plugin URI: http://www.jamunait.com/
 Description: Bangladesh Map
 Author: Emran Hossen
 Version: 2.0
-Author URI: http://www.jamunait.com/
+Author URI: http://ceo.jamunait.com/
 */
 
 
