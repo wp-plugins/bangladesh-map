@@ -55,7 +55,8 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-
+1. Bangladesh Map Home Page
+2. Bangladesh Map Divisions Page
 
 == Changelog ==
 
