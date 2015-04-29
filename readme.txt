@@ -1,5 +1,5 @@
 === Bangladesh Map ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: emran.net
 Tags: bangladesh, map, news, districts, category widget
 Requires at least: 3.0.1
 Tested up to: 3.4
