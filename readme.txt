@@ -15,19 +15,23 @@ Bangladesh Map is made for Bangla newspaper websites. Add a customized Map to yo
 
 Requires WordPress 3.0 and PHP 5.
 
-**Current plugin**
-* 7 Divisions of Bangladesh.
-* 64 Districts of Bangladesh.
-* Dashboard Widget.
-* Administration Menus.
-* Add shortcode `[bangladesh_map]` in your posts and page
-* Place `<?php echo do_shortcode('[bangladesh_map]');?> ` in your templates
+Current plugin
 
-Demo link http://www.jamunait.com/bangladesh_map.php
+1. 7 Divisions of Bangladesh.
+2. 64 Districts of Bangladesh.
+3. Dashboard Widget.
+4. Administration Menus.
+5. Add shortcode `[bangladesh_map]` in your posts and page
+6. Place `<?php echo do_shortcode('[bangladesh_map]');?> ` in your templates
+
+
+[Click here to see demo](http://www.jamunait.com/bangladesh_map.php)
+
 
 If you have suggestions for a new add-on, feel free to email me at info@jamunait.com
 Want regular updates? Become a fan of my sites on Facebook!
-https://www.facebook.com/jamunaitbd
+[Jamuna IT](https://www.facebook.com/jamunaitbd)
+
 
 
 == Installation ==
@@ -51,8 +55,7 @@ Answer to foo bar dilemma.
 
 == Screenshots ==
 
-1. This is the first screen shot. 
-2. This is the second screen shot
+
 
 == Changelog ==
 
