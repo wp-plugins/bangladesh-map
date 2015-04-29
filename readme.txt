@@ -1,5 +1,5 @@
 === Bangladesh Map ===
-Contributors: emran.net
+Contributors: emrannet
 Tags: bangladesh, map, news, districts, category widget
 Requires at least: 3.0.1
 Tested up to: 3.4
